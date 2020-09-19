@@ -1,6 +1,25 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Muyao Chen"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1 {#anchor}
+https://github.com/Mia714
+
+## My Goals for hudk4050 {.css_class}
+ - Learn how to use R.
+ - Learn how to learn with self-discipline.
+ - Learn from my peers and build a collabrative learning environment.
+
+## Video Review {.css_class}
+I think online learning can be a double-edged sword. I am a slow-learner, so it's a bonus that I can stop the video anytime and take some time to figure things out. But learning by myself can be intimidating and ineffective when I don't have a interactive learning space. 
+
+
+|       Skill       |             Score            |
+|-------------------|------------------------------|
+|    Programming    |               3              |
+| Short and Concise |The videos are very organized!|
+
+## This is how I am feeling about the semester
+![happy](happy.jpg)
